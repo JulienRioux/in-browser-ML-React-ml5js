@@ -5,3 +5,5 @@ This is the repo for my article on Medium about how to implement im-browser Mach
 While reading, you will create a simple image-regognition application:
 
 ![Screenshot](screenshot.png)
+
+https://medium.com/@julienrioux/in-browser-ml-with-react-js-and-ml5-js-f3eeb5149404
