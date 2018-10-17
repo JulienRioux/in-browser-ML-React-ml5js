@@ -2,4 +2,4 @@
 
 This is the repo for my article on Medium about how to implement ml5.js in React.js!
 
-!(screenshot)[screenshot.png]
+![Screenshot](screenshot.png)
